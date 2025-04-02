@@ -6,7 +6,7 @@
 ## 📝 Instructions
 #### Part 1: Research & Selection
 * Review the following GitHub repository, which contains a curated collection of papers and resources on audio deepfake detection.
- * Audio-Deepfake-Detection​
+ * https://github.com/media-sec-lab/Audio-Deepfake-Detection​
 * Identify 3 models/Forgery Detection approaches that you believe show the most promise for our use case:
 * Detecting AI-generated human speech
 * Potential for real-time or near real-time detection
