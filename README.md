@@ -36,18 +36,48 @@
 
 
 #### Part 3: Documentation & Analysis
+
+
 * Document your implementation process, including:
+
+
 -> Any challenges encountered
+
+
 -> How you addressed these challenges
+
+
 -> Assumptions made
+
+
 * Include an analysis section that addresses:
+
+
 -> Why you selected this particular model for implementation
+
+
 -> How the model works (high-level technical explanation)
+
+
 -> Performance results on your chosen dataset
+
+
 -> Observed strengths and weaknesses
+
+
 -> Suggestions for future improvements
+
+
 * Reflection questions to address:
+
+
 -> What were the most significant challenges in implementing this model?
+
+
 -> How might this approach perform in real-world conditions vs. research datasets?
+
+
 -> What additional data or resources would improve performance?
+
+
 -> How would you approach deploying this model in a production environment?
