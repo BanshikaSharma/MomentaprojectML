@@ -88,4 +88,7 @@
 
 *  https://datashare.ed.ac.uk/bitstream/handle/10283/3336/LA.zip?sequence=3&isAllowed=y    (LA)
 
+*  https://zenodo.org/records/14498691/files/ASVspoof5_protocols.tar.gz?download=1
+
+
 
